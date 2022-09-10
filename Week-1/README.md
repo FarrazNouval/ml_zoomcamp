@@ -32,7 +32,7 @@ Steps:
 3. Data preparation: cleans and prepares data so that it can be used to build ML models.
 4. Modeling: build and train several models and then choose the best. 
 5. Evaluation: measuring how well the performance of the model that we have built.
-6. Deployment (deployment): deploy the final result for use by the user (user). 
+6. Deployment : deploy the final result for use by the user (user). 
 Sometimes evaluation and deployment are done simultaneously.
 
 ## 5. Model Selection Process.
