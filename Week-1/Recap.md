@@ -18,8 +18,8 @@ Mathematically it can be formulated as follows: g(X) y. The function g gets inpu
 SML types: 
 1. Regression (if the target is a number) 
 2. Classification (if the target is a category) has 2 types:
-> a. Binary (if the target is only 2 categories)
-> b. Multiclass (if the target has more than 2 categories)
+> * Binary (if the target is only 2 categories)
+> * Multiclass (if the target has more than 2 categories)
 3. Ranking (if the target is a score associated with a particular item) is used in building a recommendation system.
 
 ## 4. CRISP-DM 
@@ -32,3 +32,11 @@ CRISP-DM is a methodology for organizing ML projects. Invented by IBM in the 90s
 6. Deployment (deployment): deploy the final result for use by the user (user). 
 Sometimes evaluation and deployment are done simultaneously.
 
+## 5. Selection process models.
+In building the ML model, we will not use all the data we have to train the ML model. We need to first divide the data we have into training, validation, and test. What we need to make as input in the training process is only training data and then we validate it using validation data. Sometimes it happens by chance that the performance of our model is good in training and validation to ensure that the model we build is a really good model and is ready to be distributed to users, so we try our model to predict results using test data.
+
+## 6. Numpy.
+Numpy is a library used for array processing.
+
+## 7. Pandas.
+Pandas is a library used for data processing in tabular form.
