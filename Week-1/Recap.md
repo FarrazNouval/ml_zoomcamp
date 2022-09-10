@@ -14,7 +14,7 @@ From this we get that ML is more flexible than rule based systems.
 
 ## 3. Supervised Machine Learning.
 SML is a type of machine learning where the data that we will input has features (matrix) and target (vector).
-Mathematically it can be formulated as follows: g(X) y. The function g gets input in the form of a matrix X and then produces an output in the form of a vector close to y (the real target).
+Mathematically it can be formulated as follows: g(X)≈y. The function g gets input in the form of a matrix X and then produces an output in the form of a vector close to y (the real target).<br>
 SML types: 
 1. Regression (if the target is a number) 
 2. Classification (if the target is a category) has 2 types:
@@ -23,7 +23,9 @@ SML types:
 3. Ranking (if the target is a score associated with a particular item) is used in building a recommendation system.
 
 ## 4. CRISP-DM 
-CRISP-DM is a methodology for organizing ML projects. Invented by IBM in the 90s. Steps: 
+CRISP-DM is a methodology for organizing ML projects. Invented by IBM in the 90s.
+<br>
+Steps: 
 1. Business understanding: understand whether the project really requires ML. 
 2. Understanding data (data understanding): analyze the data owned, whether it is enough to create an ML model or need additional data. 
 3. Data preparation: cleans and prepares data so that it can be used to build ML models.
