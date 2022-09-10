@@ -1,5 +1,14 @@
 # QUICK RECAP
 
+## Contents:
+* [1. What is Machine Learning ?](https://github.com/FarrazNouval/ml_zoomcamp/edit/main/Week-1/Recap.md#1-what-is-machine-learning-)
+* [2. ML vs Rule Based System.](https://github.com/FarrazNouval/ml_zoomcamp/edit/main/Week-1/Recap.md#2-ml-vs-rule-based-system)
+* [3. Supervised Machine Learning.](https://github.com/FarrazNouval/ml_zoomcamp/edit/main/Week-1/Recap.md#3-supervised-machine-learning)
+* [4. CRISP-DM](https://github.com/FarrazNouval/ml_zoomcamp/edit/main/Week-1/Recap.md#4-crisp-dm)
+* [5. Model Selection Process.](https://github.com/FarrazNouval/ml_zoomcamp/edit/main/Week-1/Recap.md#5-model-selection-process)
+* [6. Numpy](https://github.com/FarrazNouval/ml_zoomcamp/edit/main/Week-1/Recap.md#6-numpy)
+* [7. Pandas.](https://github.com/FarrazNouval/ml_zoomcamp/edit/main/Week-1/Recap.md#7-pandas)
+
 ## 1. What is Machine Learning ?
 Machine learning is a process of extracting data patterns, the data patterns here have 2 types, namely: 
 * Features (features): a collection of information about an object. 
@@ -34,7 +43,7 @@ Steps:
 6. Deployment (deployment): deploy the final result for use by the user (user). 
 Sometimes evaluation and deployment are done simultaneously.
 
-## 5. Selection process models.
+## 5. Model Selection Process.
 In building the ML model, we will not use all the data we have to train the ML model. We need to first divide the data we have into training, validation, and test. What we need to make as input in the training process is only training data and then we validate it using validation data. Sometimes it happens by chance that the performance of our model is good in training and validation to ensure that the model we build is a really good model and is ready to be distributed to users, so we try our model to predict results using test data.
 
 ## 6. Numpy.
