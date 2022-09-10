@@ -1,13 +1,5 @@
 # QUICK RECAP
 
-## Contents:
-* [1. What is Machine Learning ?](https://github.com/FarrazNouval/ml_zoomcamp/edit/main/Week-1/README.md#1-what-is-machine-learning-)
-* [2. ML vs Rule Based System.](https://github.com/FarrazNouval/ml_zoomcamp/edit/main/Week-1/README.md#2-ml-vs-rule-based-system)
-* [3. Supervised Machine Learning.](https://github.com/FarrazNouval/ml_zoomcamp/edit/main/Week-1/README.md#3-supervised-machine-learning)
-* [4. CRISP-DM](https://github.com/FarrazNouval/ml_zoomcamp/edit/main/Week-1/README.md#4-crisp-dm)
-* [5. Model Selection Process.](https://github.com/FarrazNouval/ml_zoomcamp/edit/main/Week-1/README.md#5-model-selection-process)
-* [6. Numpy](https://github.com/FarrazNouval/ml_zoomcamp/edit/main/Week-1/README.md#6-numpy)
-* [7. Pandas.](https://github.com/FarrazNouval/ml_zoomcamp/edit/main/Week-1/README.md#7-pandas)
 
 ## 1. What is Machine Learning ?
 Machine learning is a process of extracting data patterns, the data patterns here have 2 types, namely: 
