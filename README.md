@@ -10,4 +10,4 @@ In this repo i will present everything i get from ml_zoomcamp course hosted by D
 
 This repo will be updated weekly.
 
-1. [Week-1](https://github.com/FarrazNouval/ml_zoomcamp/blob/main/ml_zoomcamp_hw_1.ipynb)
+1. [Week-1](https://github.com/FarrazNouval/ml_zoomcamp/tree/main/Week-1)
